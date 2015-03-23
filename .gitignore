@@ -1,0 +1,10 @@
+.idea
+.gradle
+build
+local.properties
+signing.properties
+*.iml
+
+Thumbs.db
+CVS
+.cvsignore
